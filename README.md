@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+### 🚧 Latest Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tamanna986&theme=synthwave)](https://git.io/streak-stats)
+
+### 📭 Get In Touch
+[<p align="center"><img height="70" width= "75" src="https://i.ibb.co/pzgsqkL/2-removebg-preview-1.png">](https://linkedin.com/in/https://www.linkedin.com/in/tamanna-jahan-mim-659227246/)
+<a href="tamanna.986jahan@gmail.com">[<img height="70" src="https://i.ibb.co/gT1cQrN/instagram-1581266-960-720-removebg-preview.png"> </p>](https://www.instagram.com/tamanna_jahan.mim/?igshid=MmVlMjlkMTBhMg%3D%3D)</a>
 <!--
 **tamanna986/tamanna986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
