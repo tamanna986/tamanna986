@@ -9,8 +9,10 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=tamanna986&theme=synthwave" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tamanna986&theme=synthwave)](https://git.io/streak-stats)
-
+## Github Commit Status
+<p align="center">
+  <img width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tamanna986&theme=algolia&utcOffset=8" />
+</p>
 
 ## 📭 Get In Touch
 [<p align="center"><img height="70" width= "75" src="https://i.ibb.co/pzgsqkL/2-removebg-preview-1.png">](https://linkedin.com/in/https://www.linkedin.com/in/tamanna-jahan-mim-659227246/)
