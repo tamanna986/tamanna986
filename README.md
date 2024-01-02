@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/tamanna-jahan-mim-659227246/">
-<img src="images/banner.png" />
+<img src="images/banner-readme.jpg" />
 </a>
 
 
